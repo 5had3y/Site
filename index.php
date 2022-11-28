@@ -28,8 +28,7 @@
             <article>
                 <section>
                     <?php
-                    $ip=$_SERVER['REMOTE_ADDR'];
-
+                    echo "Please actually print.";
                     ?>
 
                 </section>
